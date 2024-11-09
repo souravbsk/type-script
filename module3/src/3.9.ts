@@ -1,0 +1,6 @@
+{
+// Abstraction in OOP is
+
+
+    // 
+}
